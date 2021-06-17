@@ -1,6 +1,6 @@
 #! python3
 
-# checks sites and send an email if price has changed
+# checks sites and sends an email if price has changed
 
 import requests, bs4, ezgmail, threading, subprocess
 
